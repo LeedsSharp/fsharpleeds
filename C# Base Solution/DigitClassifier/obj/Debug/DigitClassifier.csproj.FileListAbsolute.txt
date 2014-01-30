@@ -1,0 +1,6 @@
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\bin\Debug\DigitClassifier.exe.config
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\bin\Debug\DigitClassifier.exe
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\bin\Debug\DigitClassifier.pdb
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\obj\Debug\DigitClassifier.csprojResolveAssemblyReference.cache
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\obj\Debug\DigitClassifier.exe
+E:\Programming\Machine Learning\Digits Recogniser Dojo\C# Base Solution\DigitClassifier\obj\Debug\DigitClassifier.pdb
